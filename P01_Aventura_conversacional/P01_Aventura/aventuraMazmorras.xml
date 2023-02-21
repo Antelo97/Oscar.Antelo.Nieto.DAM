@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aventura titulo="Huida de las Mazmorras">
+
+<escena codigo="1">
+<texto>Mazmorras - Sala 1 (Inicial): 1 puerta</texto>
+<opcion id = "1" texto="Intento abrir la única puerta de la sala" resultado="2"/>
+<opcion id = "2" texto="Busco por toda la sala a ver si encuentro algún objeto" resultado="10"/>
+<opcion id = "3" texto="Consultar energía, economía e inventario" resultado="1"/>
+</escena>
+
+<escena codigo="2">
+<texto>Mazmorras - Sala 2: 3 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="20"/>
+<opcion id = "2" texto="Abro la puerta del centro" resultado="21"/>
+<opcion id = "3" texto="Abro la puerta de la derecha" resultado="22"/>
+<opcion id = "4" texto="Consultar energía, economía e inventario" resultado="2"/>
+</escena>
+
+<escena codigo="3">
+<texto>Mazmorras - Sala 3: 3 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="32"/>
+<opcion id = "2" texto="Abro la puerta del centro" resultado="31"/>
+<opcion id = "3" texto="Abro la puerta de la derecha" resultado="30"/>
+<opcion id = "4" texto="Consultar energía, economía e inventario" resultado="3"/>
+</escena>
+	
+<escena codigo="4">
+<texto>Mazmorras - Sala 4: 3 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="42"/>
+<opcion id = "2" texto="Abro la puerta del centro" resultado="41"/>
+<opcion id = "3" texto="Abro la puerta de la derecha" resultado="40"/>
+<opcion id = "4" texto="Consultar energía, economía e inventario" resultado="4"/>
+</escena>
+
+<escena codigo="5">
+<texto>Mazmorras - Sala 5: 3 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="50"/>
+<opcion id = "2" texto="Abro la puerta del centro" resultado="52"/>
+<opcion id = "3" texto="Abro la puerta de la derecha" resultado="51"/>
+<opcion id = "4" texto="Consultar energía, economía e inventario" resultado="5"/>
+</escena>
+
+<escena codigo="6">
+<texto>Mazmorras - Sala 6 (Final): 1 puerta</texto>
+<opcion id = "1" texto="Intento abrir la única puerta de la sala final" resultado="7"/>
+<opcion id = "2" texto="Retrocedo hacia la Sala 5" resultado="5"/>
+<opcion id = "2" texto="Retrocedo hacia la Sala 2" resultado="2"/>
+<opcion id = "3" texto="Consultar energía, economía e inventario" resultado="6"/>
+</escena>
+
+<escena codigo="7">
+<texto>¡Enhorabuena, has conseguido escapar de las mazmorras!</texto>
+</escena>
+
+<escena codigo="10">
+<texto>Encuentras unas llaves que parecen coincidir con la cerradura de la puerta</texto>
+<opcion id = "1" texto="Intento abrir la puerta utilizando las llaves" resultado="2"/>
+</escena>
+
+<escena codigo="20">
+<texto>Me encuentro con un vendedor ambulante</texto>
+<opcion id = "1" texto="Le compro un escudo por 50 rupias (si dispongo de ellas)" resultado="20"/>
+<opcion id = "2" texto="Le compro un arma por 100 rupias (si dispongo de ellas)" resultado="20"/>
+<opcion id = "3" texto="Le compro una llave misteriosa por 300 rupias (si dispongo de ellas)" resultado="20"/>
+<opcion id = "4" texto="Le vendo mi arma y/o escudo por la mitad de su precio" resultado="20"/>
+<opcion id = "5" texto="Decido no comprar nada/dejar de comprar" resultado="23"/>
+<opcion id = "6" texto="Consultar energía, economía e inventario" resultado="20"/>
+</escena>
+
+<escena codigo="21">
+<texto>Encuentro un cofre que contiene 100 rupias. En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="3"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="2"/>
+</escena>
+	
+<escena codigo="22">
+<texto>Me encuentro un enemigo y lucho contra él. En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="2"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="3"/>
+</escena>
+
+<escena codigo="23">
+<texto>En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="2"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="3"/>
+<opcion id = "3" texto="Consultar energía, economía e inventario" resultado="23"/>
+</escena>
+
+<escena codigo="30">
+<texto>Me encuentro con un vendedor ambulante</texto>
+<opcion id = "1" texto="Le compro un escudo por 50 rupias (si dispongo de ellas)" resultado="30"/>
+<opcion id = "2" texto="Le compro un arma por 100 rupias (si dispongo de ellas)" resultado="30"/>
+<opcion id = "3" texto="Le compro una llave misteriosa por 300 rupias (si dispongo de ellas)" resultado="30"/>
+<opcion id = "4" texto="Le vendo mi arma y/o escudo por la mitad de su precio" resultado="30"/>
+<opcion id = "5" texto="Decido no comprar nada/dejar de comprar" resultado="33"/>
+<opcion id = "6" texto="Consultar energía, economía e inventario" resultado="30"/>
+</escena>
+
+<escena codigo="31">
+<texto>Encuentro un cofre que contiene 150 rupias. En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="3"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="4"/>
+</escena>
+	
+<escena codigo="32">
+<texto>Me encuentro un enemigo y lucho contra él. En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="3"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="4"/>
+</escena>
+
+<escena codigo="33">
+<texto>En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="3"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="4"/>
+<opcion id = "3" texto="Consultar energía, economía e inventario" resultado="33"/>
+</escena>
+	
+<escena codigo="40">
+<texto>Me encuentro con un vendedor ambulante</texto>
+<opcion id = "1" texto="Le compro un escudo por 50 rupias (si dispongo de ellas)" resultado="40"/>
+<opcion id = "2" texto="Le compro un arma por 100 rupias (si dispongo de ellas)" resultado="40"/>
+<opcion id = "3" texto="Le compro una llave misteriosa por 300 rupias (si dispongo de ellas)" resultado="40"/>
+<opcion id = "4" texto="Le vendo mi arma y/o escudo por la mitad de su precio" resultado="40"/>
+<opcion id = "5" texto="Decido no comprar nada/dejar de comprar" resultado="43"/>
+<opcion id = "6" texto="Consultar energía, economía e inventario" resultado="40"/>
+</escena>
+
+<escena codigo="41">
+<texto>Encuentro un cofre que contiene 100 rupias. En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="4"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="5"/>
+</escena>
+	
+<escena codigo="42">
+<texto>Me encuentro un enemigo y lucho contra él. En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="4"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="5"/>
+</escena>
+
+<escena codigo="43">
+<texto>En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="5"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="4"/>
+<opcion id = "3" texto="Consultar energía, economía e inventario" resultado="43"/>
+</escena>
+
+<escena codigo="50">
+<texto>Me encuentro con un vendedor ambulante</texto>
+<opcion id = "1" texto="Le compro un escudo por 50 rupias (si dispongo de ellas)" resultado="50"/>
+<opcion id = "2" texto="Le compro un arma por 100 rupias (si dispongo de ellas)" resultado="50"/>
+<opcion id = "3" texto="Le compro una llave misteriosa por 300 rupias (si dispongo de ellas)" resultado="50"/>
+<opcion id = "4" texto="Le vendo mi arma y/o escudo por la mitad de su precio" resultado="50"/>
+<opcion id = "5" texto="Decido no comprar nada/dejar de comprar" resultado="53"/>
+<opcion id = "6" texto="Consultar energía, economía e inventario" resultado="50"/>
+</escena>
+
+<escena codigo="51">
+<texto>Encuentro un cofre que contiene 150 rupias. En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="5"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="6"/>
+</escena>
+	
+<escena codigo="52">
+<texto>Me encuentro un enemigo y lucho contra él. En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="6"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="5"/>
+</escena>
+
+<escena codigo="53">
+<texto>En esta subsala hay 2 puertas</texto>
+<opcion id = "1" texto="Abro la puerta de la izquierda" resultado="5"/>
+<opcion id = "2" texto="Abro la puerta de la derecha" resultado="6"/>
+<opcion id = "3" texto="Consultar energía, economía e inventario" resultado="53"/>
+</escena>
+
+</aventura>

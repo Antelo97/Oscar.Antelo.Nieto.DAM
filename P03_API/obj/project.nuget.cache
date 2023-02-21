@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2G/qcKE9oqoOOkChDLmTC470ujnh8xLGGJh+sAcX1C5oAvEgXKMZcyyrQOiENNZRMPad93swnbVx38o+knauPA==",
+  "success": true,
+  "projectFilePath": "D:\\CFGS DAM\\CFGS DAM II\\Desarrollo de Interfaces I\\prácticas\\entregables\\P03_API\\P03_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oscar\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

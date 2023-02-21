@@ -1,0 +1,14 @@
+API: https://rickandmortyapi.com/
+
+Ejemplo Character: https://rickandmortyapi.com/api/character/151
+Ejemplo Location: https://rickandmortyapi.com/api/location/20
+Ejemplo Episode: https://rickandmortyapi.com/api/episode/7
+
+Info Characters: https://rickandmortyapi.com/api/character
+Info Locations: https://rickandmortyapi.com/api/location
+Info Episodes: https://rickandmortyapi.com/api/episode
+
+SELECT * FROM Locations;
+SELECT * FROM Characters;
+SELECT * FROM Locations;
+SELECT * FROM CharToEp;

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aventura titulo="Gran Premio F1">
+
+<escena codigo="1">
+<texto>Me despierto en el cuerpo de Fernando Alonso y subido a un monoplaza en plena parilla de salida del GP de Mónaco.
+Visualizo mi posición y percibo que salgo sexto, casualmente dos puestos por delante de mi compañero de equipo Esteban Ocon, que esta justo detrás.</texto>
+<opcion id = "1" texto="Realizo un salida defectuosa con el único fin de taponer a mi compañero de equipo en señal de venganza" resultado="2"/>
+<opcion id = "2" texto="Realizo una salida de ensueño, como en los buenos tiempos, y gano tres posiciones, colocándome tercero" resultado="3"/>
+<opcion id = "3" texto="Aprieto el pedal de acelerador con todas mi fuerzas" resultado="4"/>
+</escena>
+	
+<escena codigo="2">
+<texto>Tu maniobra no ha sido bien vista por el equipo, y te lo hacen saber por radio instándote a cederle tu posición a Esteban Ocon.</texto>
+<opcion id = "1" texto="Me niego rotundamente a realizar tal maniobra" resultado="4"/>
+<opcion id = "2" texto="Les ignoró mientras continuo con mi táctica de taponamiento" resultado="4"/>
+<opcion id = "3" texto="Me hago el loco y empiezo a lanzar mensajes aleatorios para hacerles pensar que la radio no funciona bien" resultado="4"/>		
+</escena>
+
+<escena codigo="3">
+<texto>Tras la espectacular salida, te pones tercero a escasas décimas de Nikita Mazepin, pero lo que no sabes es que en Alpine les incomoda la posibilidad de que vuelvas a
+dejar en evidencia a su pupilo fránces otro fin de semana.</texto>
+<opcion id = "1" texto="Realizo un maniobra arriesgada para tratar de ganarle el interior a Mazepin" resultado="4"/>
+<opcion id = "2" texto="Viendo quien tengo delante, opto por una estrategia más conservadora y decido quedarme detrás para evitar una posible colisión" resultado="4"/>
+<opcion id = "3" texto="Abro radio con el equipo para informarme de las previsiones climatológicas" resultado="4"/>	
+</escena>
+
+<escena codigo="4">
+<texto>Sientes un ruido extraño en el motor del coche, el monoplaza se detiene y te ves obligado a abandonar la carrera.</texto>
+</escena>	
+	
+</aventura>

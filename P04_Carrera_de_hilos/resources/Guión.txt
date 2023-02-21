@@ -1,0 +1,88 @@
+* CLASE MAIN *
+La clase Main es la principal del proyecto, ya que contiene el método main
+que es el punto de entrada para la ejecución del programa.
+En esta clase creamos una instancia de la clase Window, que hereda de JFrame 
+y representa la ventana o marco de la aplicación, para a continuación llamar
+al método buildWindow de dicha clase.
+
+* CLASE WINDOW *
+El método buildWindow de la clase Window se encarga de construir la ventana y añadir 
+a ella todos los componentes que formarán parte de la interfaz gráfica de la aplicación.
+Todos estos componentes se encuentran definidos en la clase Pánel, que hereda de 
+JPánel y representa todo el contenido de la ventana.
+
+* CLASE PANEL *
+En la clase Pánel se encuentra definidos todos los componentes de la interfaz gráfica, que incluye botones,
+controles deslizantes, barras de progreso, campos de texto, etiquetas y separadores.
+En esta clase también se incluyen varias funciones que permiten agregar interactividad a la interfaz,
+así como coordinar que la aplicación funcione correctamente.
+
+La interfaz dispone de 3 botones:
+Un botón de comenzar carrera, que al clicarlo creará y 
+lanzará la ejecución de los 3 hilos, tomando como prioridades los valores establecidos en cada uno
+de los controles deslizantes.
+También se llamará a la función disableComponents, que inhabilitará todos los botones y controles deslizantes de 
+la interfaz, para que durante el transcurso de la carrera el usuario no pueda interactuar con ellos.
+Un botón de randomizar prioridades, que al pulsarlo generará valores aleatorios entre 1 y 10 para cada uno 
+de los controles deslizantes, de forma que al iniciar la carrera cada hilo tenga una prioridad asignada aleatoriamente.
+Un botón de resetear prioridades, que al accionarlo resetará a 5 el valor de los 3 controles deslizantes, 
+para que se pueda iniciar de nuevo la carrera con las prioridades originales.
+El aspecto de la interfaz definida en esta clase sería el siguiente:
+
+* CLASE THREAD *
+La clase Thread, es la que se utiliza para crear los hilos y trabajar con ellos.
+Cada hilo dispone de 5 atributos: un booleano, stopThread, para especificar cuando
+se debe pausar el hilo; un entero, taimSlip, que representa el intervalo de pausa 
+entre cada ciclo; un String, name, que permitirá identificar a cada hilo para su comunicación
+con la clase Juez, un entero, count, que representa el contador o número de ciclos que ha 
+llevado a cabo el hilo, y otro entero, limitCount, que representa la cantidad de ciclos que se 
+deben realizar para alcanzar la meta.
+Esta clase dispone de dos métodos:
+Un método stopThread, que al llamarlo asigna "true" al atributo stopThread para que el hilo se detenga
+y deje de sumar a su contador.
+El método rran, que se ejecuta en bucle desde que se lanza el hilo y se encarga de sumar uno
+al contador por cada ciclo completado.
+Cada hilo, en función de su nombre, irá actualizando sus correspondientes componentes
+para que podamos visualizar el desarrollo de la carrera en la interfaz.
+Cuando el contador del hilo alcanza el valor de limitCount, se llama a la función asaingPleis
+de la clase Juez, la cual se encargará de procesar la posición de llegada de dicho hilo.
+Por último, se llama a las funciones stopThread, e interrupt para detener el hilo por 
+completo.
+
+* JUDGE *
+La clase Juez representa al juez y se encarga de asignar a cada hilo su posición
+de llegada. Para ello se hace uso de 3 variables de tipo String, first Place, second Place y third Place,
+y la función assign Place.
+Dicha función es llamada desde el hilo cuando éste llega a la meta. La función recibe como
+parámetro el nombre del hilo desde el que se llama, y almacena dicho nombre
+en una de las tres variables previamente mencionadas, en función de su posición de llegada.
+Si por ejemplo, cuando un hilo llama a esta función, first Place es la única variable que tiene un valor asignado, 
+entonces el juez almacenará el nombre de dicho hilo en second Place. 
+
+Cuando el juez asigna la tercera posición a un hilo, llama a la función end Race para dar
+por finalizada la carrera. Esta función muestra una ventana de texto donde se refleja la posición
+final de cada hilo. Por último, se llama a la función ineibol components, que habilita todos los
+componentes previamente deshabilitados y resetea el valor de las variables del juez para poder 
+iniciar una nueva carrera.
+
+Por último, ejecutaremos el programa varias veces con el fin de comprobar que los hilos de mayor 
+prioridad son los primeros en llegar a la meta. Primero haremos dos pruebas con una prioridad
+de 5 para todos los hilos, y verificaremos como los tiempos de llegada son muy similares entre todos
+ellos, y por útimo realizaremos otras dos pruebas, pero esta vez asignando prioridades aleatorias
+a cada hilo, y observaremos como existe una correlación entre la prioridad asignada y el orden de
+llegada a meta. Para que las diferencias sean apreciables, es conveniente someter a estres la CPU
+del equipo, para que esta se vea obligada priorizar unos hilos sobre otros.
+
+https://cpux.net/cpu-stress-test-online
+(estresar CPU, hilos a tope)
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,120 @@
+C:\Users\oscar\source\repos\Practica01\bin\Debug\Practica01.exe.config
+C:\Users\oscar\source\repos\Practica01\bin\Debug\Practica01.exe
+C:\Users\oscar\source\repos\Practica01\bin\Debug\Practica01.pdb
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.Properties.Resources.resources
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.exe
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.pdb
+C:\Users\oscar\source\repos\Practica01\bin\Debug\as\Practica01.resources.dll
+C:\Users\oscar\source\repos\Practica01\bin\Debug\fr\Practica01.resources.dll
+C:\Users\oscar\source\repos\Practica01\bin\Debug\en\Practica01.resources.dll
+C:\Users\oscar\source\repos\Practica01\bin\Debug\zh\Practica01.resources.dll
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.Idiomas.Idioma.as.resources
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.Idiomas.Idioma.fr.resources
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.Idiomas.Idioma.en.resources
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.Idiomas.Idioma.zh.resources
+C:\Users\oscar\source\repos\Practica01\obj\Debug\as\Practica01.resources.dll
+C:\Users\oscar\source\repos\Practica01\obj\Debug\fr\Practica01.resources.dll
+C:\Users\oscar\source\repos\Practica01\obj\Debug\en\Practica01.resources.dll
+C:\Users\oscar\source\repos\Practica01\obj\Debug\zh\Practica01.resources.dll
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.Idiomas.Idioma.resources
+C:\Users\oscar\source\repos\Practica01\obj\Debug\Practica01.FindPairs.resources
+C:\Users\oscar\source\repos\P01_Parejas\bin\Debug\Practica01.exe.config
+C:\Users\oscar\source\repos\P01_Parejas\bin\Debug\Practica01.exe
+C:\Users\oscar\source\repos\P01_Parejas\bin\Debug\Practica01.pdb
+C:\Users\oscar\source\repos\P01_Parejas\bin\Debug\as\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Parejas\bin\Debug\en\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Parejas\bin\Debug\fr\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Parejas\bin\Debug\zh\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.FindPairs.resources
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.resources
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.Properties.Resources.resources
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.as.resources
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.en.resources
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.fr.resources
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.zh.resources
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\as\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\en\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\fr\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\zh\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.exe
+C:\Users\oscar\source\repos\P01_Parejas\obj\Debug\Practica01.pdb
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\bin\Debug\Practica01.exe.config
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\bin\Debug\Practica01.exe
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\bin\Debug\Practica01.pdb
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\bin\Debug\as\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\bin\Debug\en\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\bin\Debug\fr\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\bin\Debug\zh\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.FindPairs.resources
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.Idiomas.Idioma.resources
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.Properties.Resources.resources
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.Idiomas.Idioma.as.resources
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.Idiomas.Idioma.en.resources
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.Idiomas.Idioma.fr.resources
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.Idiomas.Idioma.zh.resources
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\as\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\en\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\fr\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\zh\Practica01.resources.dll
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.exe
+C:\Users\oscar\source\repos\P01_Búsqueda_de_parejas\obj\Debug\Practica01.pdb
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\Practica01.exe.config
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\Practica01.exe
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\Practica01.pdb
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\as\Practica01.resources.dll
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\en\Practica01.resources.dll
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\fr\Practica01.resources.dll
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\zh\Practica01.resources.dll
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.FindPairs.resources
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.resources
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Properties.Resources.resources
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.as.resources
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.en.resources
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.fr.resources
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.zh.resources
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.csproj.GenerateResource.cache
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\as\Practica01.resources.dll
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\en\Practica01.resources.dll
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\fr\Practica01.resources.dll
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\zh\Practica01.resources.dll
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.exe
+C:\Users\oscar\OneDrive\Desktop\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.pdb
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\Practica01.exe.config
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\Practica01.exe
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\Practica01.pdb
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\as\Practica01.resources.dll
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\en\Practica01.resources.dll
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\fr\Practica01.resources.dll
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\bin\Debug\zh\Practica01.resources.dll
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.csproj.AssemblyReference.cache
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.csproj.SuggestedBindingRedirects.cache
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.FindPairs.resources
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.resources
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Properties.Resources.resources
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.as.resources
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.en.resources
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.fr.resources
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.Idiomas.Idioma.zh.resources
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.csproj.GenerateResource.cache
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.csproj.CoreCompileInputs.cache
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\as\Practica01.resources.dll
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\en\Practica01.resources.dll
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\fr\Practica01.resources.dll
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\zh\Practica01.resources.dll
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.exe
+D:\CFGS DAM\CFGS DAM II\Desarrollo de Interfaces I\prácticas\entregables\P01_Parejas\obj\Debug\Practica01.pdb

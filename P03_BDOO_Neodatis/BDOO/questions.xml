@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<preguntas>
+
+    <pregunta text="¿Cuál es el animal más grande del mundo?" difficulty="easy">
+        <opcion right="false">Elefante</opcion>
+        <opcion right="true">Ballena azul</opcion>
+        <opcion right="false">Tigre</opcion>
+        <opcion right="false">Rinoceronte</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el río más largo del mundo?" difficulty="easy">
+        <opcion right="true">Níger</opcion>
+        <opcion right="false">Amazonas</opcion>
+        <opcion right="false">Mississippi</opcion>
+        <opcion right="false">Yangtzé</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más veloz del mundo?" difficulty="easy">
+        <opcion right="true">Guepardo</opcion>
+        <opcion right="false">Leopardo</opcion>
+        <opcion right="false">Jaguar</opcion>
+        <opcion right="false">Puma</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más grande del mundo en términos de superficie?" difficulty="easy">
+        <opcion right="true">Rusia</opcion>
+        <opcion right="false">Estados Unidos</opcion>
+        <opcion right="false">China</opcion>
+        <opcion right="false">Canadá</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el lago más grande del mundo?" difficulty="easy">
+        <opcion right="false">Lago Victoria</opcion>
+        <opcion right="true">Lago Superior</opcion>
+        <opcion right="false">Lago Hurón</opcion>
+        <opcion right="false">Lago Baikal</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el océano más grande del mundo?" difficulty="easy">
+        <opcion right="true">Océano Pacífico</opcion>
+        <opcion right="false">Océano Atlántico</opcion>
+        <opcion right="false">Océano Índico</opcion>
+        <opcion right="false">Océano Antártico</opcion>
+    </pregunta>
+
+    <pregunta text="¿Quién es el autor de la obra literaria 'Don Quijote de la Mancha'?" difficulty="easy">
+        <opcion right="false">Shakespeare</opcion>
+        <opcion right="true">Cervantes</opcion>
+        <opcion right="false">Milton</opcion>
+        <opcion right="false">Goethe</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la capital de Francia?" difficulty="easy">
+        <opcion right="true">París</opcion>
+        <opcion right="false">Lyon</opcion>
+        <opcion right="false">Marsella</opcion>
+        <opcion right="false">Toulouse</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de España?" difficulty="easy">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Alemán</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el monumento más famoso de Nueva York?" difficulty="easy">
+        <opcion right="true">Estatua de la Libertad</opcion>
+        <opcion right="false">Torre Eiffel</opcion>
+        <opcion right="false">Big Ben</opcion>
+        <opcion right="false">Coliseo Romano</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo?" difficulty="easy">
+        <opcion right="false">Elefante</opcion>
+        <opcion right="true">Ballena azul</opcion>
+        <opcion right="false">Tigre</opcion>
+        <opcion right="false">Rinoceronte</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el río más largo del mundo?" difficulty="easy">
+        <opcion right="true">Níger</opcion>
+        <opcion right="false">Amazonas</opcion>
+        <opcion right="false">Mississippi</opcion>
+        <opcion right="false">Yangtzé</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más veloz del mundo?" difficulty="easy">
+        <opcion right="true">Guepardo</opcion>
+        <opcion right="false">Leopardo</opcion>
+        <opcion right="false">Jaguar</opcion>
+        <opcion right="false">Puma</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más grande del mundo en términos de superficie?" difficulty="easy">
+        <opcion right="true">Rusia</opcion>
+        <opcion right="false">Estados Unidos</opcion>
+        <opcion right="false">China</opcion>
+        <opcion right="false">Canadá</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda oficial de China?" difficulty="easy">
+        <opcion right="false">Yen</opcion>
+        <opcion right="false">Rupia</opcion>
+        <opcion right="true">Yuan</opcion>
+        <opcion right="false">Dólar estadounidense</opcion>
+    </pregunta>
+    <pregunta text="¿Quién escribió el libro '1984'?" difficulty="easy">
+        <opcion right="false">George Orwell</opcion>
+        <opcion right="true">George Lucas</opcion>
+        <opcion right="false">George R.R. Martin</opcion>
+        <opcion right="false">George Washington</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la capital de España?" difficulty="easy">
+        <opcion right="false">Barcelona</opcion>
+        <opcion right="false">Valencia</opcion>
+        <opcion right="true">Madrid</opcion>
+        <opcion right="false">Sevilla</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más rápido del mundo?" difficulty="easy">
+        <opcion right="false">León</opcion>
+        <opcion right="true">Guepardo</opcion>
+        <opcion right="false">Jaguar</opcion>
+        <opcion right="false">Tigre</opcion>
+    </pregunta>
+    <pregunta text="¿Cuántos días tiene un año en Marte?" difficulty="easy">
+        <opcion right="false">365</opcion>
+        <opcion right="false">366</opcion>
+        <opcion right="true">687</opcion>
+        <opcion right="false">731</opcion>
+    </pregunta>
+    <pregunta text="¿Quién fue el presidente de Estados Unidos durante la Segunda Guerra Mundial?" difficulty="easy">
+        <opcion right="false">John F. Kennedy</opcion>
+        <opcion right="false">Richard Nixon</opcion>
+        <opcion right="false">Ronald Reagan</opcion>
+        <opcion right="true">Franklin D. Roosevelt</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Francia?" difficulty="easy">
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Español</opcion>
+        <opcion right="true">Francés</opcion>
+        <opcion right="false">Alemán</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el río más largo del mundo?" difficulty="easy">
+        <opcion right="true">Níger</opcion>
+        <opcion right="false">Amazonas</opcion>
+        <opcion right="false">Mississippi</opcion>
+        <opcion right="false">Yangtsé</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el segundo planeta más cercano al Sol?" difficulty="easy">
+        <opcion right="false">Venus</opcion>
+        <opcion right="true">Tierra</opcion>
+        <opcion right="false">Marte</opcion>
+        <opcion right="false">Júpiter</opcion>
+    </pregunta>
+    <pregunta text="¿Cuántas patas tienen los arácnidos?" difficulty="easy">
+        <opcion right="false">4</opcion>
+        <opcion right="true">8</opcion>
+        <opcion right="false">10</opcion>
+        <opcion right="false">12</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el océano más grande del mundo?" difficulty="easy">
+        <opcion right="false">Atlántico</opcion>
+        <opcion right="true">Pacífico</opcion>
+        <opcion right="false">Indico</opcion>
+        <opcion right="false">Ártico</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la capital de Australia?" difficulty="easy">
+        <opcion right="false">Sídney</opcion>
+        <opcion right="true">Canberra</opcion>
+        <opcion right="false">Melbourne</opcion>
+        <opcion right="false">Perth</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo?" difficulty="easy">
+        <opcion right="false">Elefante</opcion>
+        <opcion right="false">Rinoceronte</opcion>
+        <opcion right="true">Ballena azul</opcion>
+        <opcion right="false">Gorila</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más grande del mundo en términos de superficie?" difficulty="easy">
+        <opcion right="true">Rusia</opcion>
+        <opcion right="false">China</opcion>
+        <opcion right="false">Estados Unidos</opcion>
+        <opcion right="false">Canadá</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más lento del mundo?" difficulty="easy">
+        <opcion right="false">Oso panda</opcion>
+        <opcion right="false">Tortuga</opcion>
+        <opcion right="true">Caracol</opcion>
+        <opcion right="false">Cangrejo</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más poblado del mundo?" difficulty="easy">
+        <opcion right="true">China</opcion>
+        <opcion right="false">India</opcion>
+        <opcion right="false">Estados Unidos</opcion>
+        <opcion right="false">Indonesia</opcion>
+    </pregunta>
+    <pregunta text="¿Cuántas temporadas tiene un año?" difficulty="easy">
+        <opcion right="false">2</opcion>
+        <opcion right="true">4</opcion>
+        <opcion right="false">6</opcion>
+        <opcion right="false">8</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el estado más grande de Estados Unidos en términos de superficie?" difficulty="easy">
+        <opcion right="true">Alaska</opcion>
+        <opcion right="false">Texas</opcion>
+        <opcion right="false">California</opcion>
+        <opcion right="false">Montana</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la estrella más cercana a la Tierra?" difficulty="easy">
+        <opcion right="true">Sol</opcion>
+        <opcion right="false">Sirio</opcion>
+        <opcion right="false">Proxima Centauri</opcion>
+        <opcion right="false">Alpha Centauri</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más pequeño del mundo?" difficulty="easy">
+        <opcion right="false">Hamster</opcion>
+        <opcion right="false">Erizo</opcion>
+        <opcion right="true">Kinkajú</opcion>
+        <opcion right="false">Ratón</opcion>
+    </pregunta>
+    <pregunta text="¿Cuántos países hay en el mundo?" difficulty="easy">
+        <opcion right="false">194</opcion>
+        <opcion right="true">195</opcion>
+        <opcion right="false">196</opcion>
+        <opcion right="false">197</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la planta más alta del mundo?" difficulty="easy">
+        <opcion right="true">Eucalipto</opcion>
+        <opcion right="false">Cedro</opcion>
+        <opcion right="false">Pino</opcion>
+        <opcion right="false">Roble</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el río más corto del mundo?" difficulty="easy">
+        <opcion right="false">Níger</opcion>
+        <opcion right="true">Río Roe</opcion>
+        <opcion right="false">Amazonas</opcion>
+        <opcion right="false">Mississippi</opcion>
+    </pregunta>
+    <pregunta text="¿Cuántos continentes hay en el mundo?" difficulty="easy">
+        <opcion right="false">3</opcion>
+        <opcion right="true">7</opcion>
+        <opcion right="false">9</opcion>
+        <opcion right="false">5</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más inteligente del mundo?" difficulty="easy">
+        <opcion right="false">Tigre</opcion>
+        <opcion right="true">Chimpanzé</opcion>
+        <opcion right="false">León</opcion>
+        <opcion right="false">Gorila</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el metal más ligero del mundo?" difficulty="easy">
+        <opcion right="false">Hierro</opcion>
+        <opcion right="false">Cobre</opcion>
+        <opcion right="true">Aluminio</opcion>
+        <opcion right="false">Plomo</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el edificio más alto del mundo?" difficulty="easy">
+        <opcion right="false">Empire State Building</opcion>
+        <opcion right="true">Torre Burj Khalifa</opcion>
+        <opcion right="false">Shanghai Tower</opcion>
+        <opcion right="false">One World Trade Center</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el elemento químico más abundante en la Tierra?" difficulty="easy">
+        <opcion right="true">Oxígeno</opcion>
+        <opcion right="false">Hidrógeno</opcion>
+        <opcion right="false">Carbono</opcion>
+        <opcion right="false">Nitrógeno</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más venenoso del mundo?" difficulty="easy">
+        <opcion right="false">Serpiente de cascabel</opcion>
+        <opcion right="true">Medusa marina</opcion>
+        <opcion right="false">Escorpión</opcion>
+        <opcion right="false">Araña viuda negra</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el río más largo de Europa?" difficulty="easy">
+        <opcion right="false">Danubio</opcion>
+        <opcion right="false">Reno</opcion>
+        <opcion right="true">Volga</opcion>
+        <opcion right="false">Ebro</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la montaña más alta del mundo?" difficulty="easy">
+        <opcion right="true">Monte Everest</opcion>
+        <opcion right="false">Monte Kilimanjaro</opcion>
+        <opcion right="false">Monte Aconcagua</opcion>
+        <opcion right="false">Monte Fuji</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más longevo del mundo?" difficulty="easy">
+        <opcion right="false">Elefante</opcion>
+        <opcion right="false">Tigre</opcion>
+        <opcion right="true">Tortuga</opcion>
+        <opcion right="false">Cangrejo de río</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el metal más pesado del mundo?" difficulty="easy">
+        <opcion right="false">Hierro</opcion>
+        <opcion right="false">Cobre</opcion>
+        <opcion right="true">Oro</opcion>
+        <opcion right="false">Plomo</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más rápido del mundo?" difficulty="easy">
+        <opcion right="false">Leopardo</opcion>
+        <opcion right="false">Guepardo</opcion>
+        <opcion right="true">Halcón peregrino</opcion>
+        <opcion right="false">Linces</opcion>
+    </pregunta>
+    <pregunta text="¿Cuántos dientes tienen los humanos adultos?" difficulty="easy">
+        <opcion right="false">20</opcion>
+        <opcion right="true">32</opcion>
+        <opcion right="false">42</opcion>
+        <opcion right="false">52</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más pequeño del mundo en términos de superficie?" difficulty="easy">
+        <opcion right="false">Mónaco</opcion>
+        <opcion right="true">Vaticano</opcion>
+        <opcion right="false">Nauru</opcion>
+        <opcion right="false">Tuvalu</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo que vuela?" difficulty="easy">
+        <opcion right="false">Águila</opcion>
+        <opcion right="false">Búho</opcion>
+        <opcion right="true">Cóndor</opcion>
+        <opcion right="false">Halcón</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la capital de Portugal?" difficulty="easy">
+        <opcion right="true">Lisboa</opcion>
+        <opcion right="false">Madrid</opcion>
+        <opcion right="false">Barcelona</opcion>
+        <opcion right="false">Málaga</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más pesado del mundo?" difficulty="easy">
+        <opcion right="false">Elefante</opcion>
+        <opcion right="true">Ballena azul</opcion>
+        <opcion right="false">Rinoceronte</opcion>
+        <opcion right="false">Hipopótamo</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el planeta más pequeño del sistema solar?" difficulty="easy">
+        <opcion right="false">Marte</opcion>
+        <opcion right="false">Venus</opcion>
+        <opcion right="true">Mercurio</opcion>
+        <opcion right="false">Tierra</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo?" difficulty="easy">
+        <opcion right="false">Elefante</opcion>
+        <opcion right="false">Tigre</opcion>
+        <opcion right="true">Ballena azul</opcion>
+        <opcion right="false">Rinoceronte</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el estado más pequeño de Estados Unidos en términos de superficie?" difficulty="easy">
+        <opcion right="false">Texas</opcion>
+        <opcion right="false">California</opcion>
+        <opcion right="true">Rhode Island</opcion>
+        <opcion right="false">Delaware</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más grande de Sudamérica en términos de superficie?" difficulty="easy">
+        <opcion right="false">Brasil</opcion>
+        <opcion right="true">Argentina</opcion>
+        <opcion right="false">Chile</opcion>
+        <opcion right="false">Colombia</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el río más largo del mundo?" difficulty="easy">
+        <opcion right="true">Amazonas</opcion>
+        <opcion right="false">Níger</opcion>
+        <opcion right="false">Mississippi</opcion>
+        <opcion right="false">Yangtze</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo que vuela?" difficulty="easy">
+        <opcion right="false">Águila</opcion>
+        <opcion right="true">Cóndor</opcion>
+        <opcion right="false">Búho</opcion>
+        <opcion right="false">Halcón</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la capital de España?" difficulty="easy">
+        <opcion right="false">Lisboa</opcion>
+        <opcion right="true">Madrid</opcion>
+        <opcion right="false">Barcelona</opcion>
+        <opcion right="false">Málaga</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo que vive en la tierra?" difficulty="easy">
+        <opcion right="false">Ballena azul</opcion>
+        <opcion right="false">Tigre</opcion>
+        <opcion right="true">Elefante</opcion>
+        <opcion right="false">Rinoceronte</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más poblado del mundo?" difficulty="easy">
+        <opcion right="true">China</opcion>
+        <opcion right="false">India</opcion>
+        <opcion right="false">Estados Unidos</opcion>
+        <opcion right="false">Indonesia</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el océano más grande del mundo?" difficulty="easy">
+        <opcion right="true">Océano Pacífico</opcion>
+        <opcion right="false">Océano Índico</opcion>
+        <opcion right="false">Océano Atlántico</opcion>
+        <opcion right="false">Océano Artico</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo que vive en agua dulce?" difficulty="easy">
+        <opcion right="false">Ballena azul</opcion>
+        <opcion right="true">Cocodrilo</opcion>
+        <opcion right="false">Tiburón blanco</opcion>
+        <opcion right="false">Anaconda</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más grande del mundo en términos de superficie?" difficulty="easy">
+        <opcion right="true">Rusia</opcion>
+        <opcion right="false">China</opcion>
+        <opcion right="false">Estados Unidos</opcion>
+        <opcion right="false">Canadá</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más pequeño del mundo en términos de población?" difficulty="easy">
+        <opcion right="true">Vaticano</opcion>
+        <opcion right="false">Mónaco</opcion>
+        <opcion right="false">Nauru</opcion>
+        <opcion right="false">Tuvalu</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el elemento químico más abundante en la Tierra?" difficulty="easy">
+        <opcion right="true">Oxígeno</opcion>
+        <opcion right="false">Hidrógeno</opcion>
+        <opcion right="false">Carbono</opcion>
+        <opcion right="false">Nitrógeno</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo que vive en el mar?" difficulty="easy">
+        <opcion right="true">Ballena azul</opcion>
+        <opcion right="false">Tiburón blanco</opcion>
+        <opcion right="false">Cocodrilo</opcion>
+        <opcion right="false">Anaconda</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda más valiosa del mundo?" difficulty="easy">
+        <opcion right="false">Dólar estadounidense</opcion>
+        <opcion right="false">Euro</opcion>
+        <opcion right="false">Libra esterlina</opcion>
+        <opcion right="true">Yen japonés</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el lago más grande del mundo?" difficulty="easy">
+        <opcion right="true">Mar Caspio</opcion>
+        <opcion right="false">Lago Titicaca</opcion>
+        <opcion right="false">Lago Victoria</opcion>
+        <opcion right="false">Lago Superior</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo que vive en el aire?" difficulty="easy">
+        <opcion right="false">Cóndor</opcion>
+        <opcion right="true">Águila</opcion>
+        <opcion right="false">Búho</opcion>
+        <opcion right="false">Halcón</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más grande de Europa en términos de superficie?" difficulty="easy">
+        <opcion right="false">España</opcion>
+        <opcion right="false">Francia</opcion>
+        <opcion right="true">Rusia</opcion>
+        <opcion right="false">Alemania</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo que vive en el aire y en la tierra?" difficulty="easy">
+        <opcion right="false">Ostra</opcion>
+        <opcion right="true">Oso panda</opcion>
+        <opcion right="false">Jaguar</opcion>
+        <opcion right="false">Tigre</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda más antigua del mundo?" difficulty="easy">
+        <opcion right="false">Dólar estadounidense</opcion>
+        <opcion right="true">Libra esterlina</opcion>
+        <opcion right="false">Euro</opcion>
+        <opcion right="false">Yen japonés</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el río más corto del mundo?" difficulty="easy">
+        <opcion right="false">Níger</opcion>
+        <opcion right="false">Mississippi</opcion>
+        <opcion right="false">Yangtze</opcion>
+        <opcion right="true">Río Roe</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo que vive en la tierra y en el agua?" difficulty="easy">
+        <opcion right="false">Ostra</opcion>
+        <opcion right="true">Hipopótamo</opcion>
+        <opcion right="false">Jaguar</opcion>
+        <opcion right="false">Tigre</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo que vive en el agua y en la tierra?" difficulty="easy">
+        <opcion right="false">Ostra</opcion>
+        <opcion right="false">Oso panda</opcion>
+        <opcion right="true">Tortuga</opcion>
+        <opcion right="false">Langosta</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más lento del mundo en el aire?" difficulty="easy">
+        <opcion right="false">Búho</opcion>
+        <opcion right="true">Cangrejo</opcion>
+        <opcion right="false">Mariposa</opcion>
+        <opcion right="false">Abeja</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más lento del mundo en el agua?" difficulty="easy">
+        <opcion right="false">Tiburón blanco</opcion>
+        <opcion right="true">Caracol</opcion>
+        <opcion right="false">Cangrejo</opcion>
+        <opcion right="false">Langosta</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más rápido del mundo en la tierra?" difficulty="easy">
+        <opcion right="false">Leopardo</opcion>
+        <opcion right="false">Guepardo</opcion>
+        <opcion right="true">Liebre</opcion>
+        <opcion right="false">Cangrejo</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más lento del mundo en la tierra?" difficulty="easy">
+        <opcion right="false">Leopardo</opcion>
+        <opcion right="false">Guepardo</opcion>
+        <opcion right="true">Caracol</opcion>
+        <opcion right="false">Cangrejo</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo que vive en la tierra y en el aire?" difficulty="easy">
+        <opcion right="false">Ostra</opcion>
+        <opcion right="false">Oso panda</opcion>
+        <opcion right="true">Águila</opcion>
+        <opcion right="false">Tigre</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más pequeño del mundo que vive en el aire?" difficulty="easy">
+        <opcion right="false">Cangrejo</opcion>
+        <opcion right="true">Moscas</opcion>
+        <opcion right="false">Mariposas</opcion>
+        <opcion right="false">Abejas</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo que vive en el agua y en el aire?" difficulty="easy">
+        <opcion right="false">Ostra</opcion>
+        <opcion right="false">Oso panda</opcion>
+        <opcion right="true">Ballena</opcion>
+        <opcion right="false">Tigre</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el proceso mediante el cual los átomos se combinan para formar moléculas?"
+              difficulty="difficult">
+        <opcion right="true">Enlazamiento químico</opcion>
+        <opcion right="false">Fisión nuclear</opcion>
+        <opcion right="false">Fusión nuclear</opcion>
+        <opcion right="false">Radioactividad</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el proceso mediante el cual los átomos se dividen para liberar energía?"
+              difficulty="difficult">
+        <opcion right="false">Enlazamiento químico</opcion>
+        <opcion right="true">Fisión nuclear</opcion>
+        <opcion right="false">Fusión nuclear</opcion>
+        <opcion right="false">Radioactividad</opcion>
+    </pregunta>
+    <pregunta
+            text="¿Cuál es el proceso mediante el cual dos núcleos atómicos se combinan para formar uno más pesado y liberar energía?"
+            difficulty="difficult">
+        <opcion right="false">Enlazamiento químico</opcion>
+        <opcion right="false">Fisión nuclear</opcion>
+        <opcion right="true">Fusión nuclear</opcion>
+        <opcion right="false">Radioactividad</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el proceso mediante el cual un núcleo atómico se desintegra y libera radiación?"
+              difficulty="difficult">
+        <opcion right="false">Enlazamiento químico</opcion>
+        <opcion right="false">Fisión nuclear</opcion>
+        <opcion right="false">Fusión nuclear</opcion>
+        <opcion right="true">Radioactividad</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el proceso mediante el cual un elemento químico se convierte en otro elemento diferente?"
+              difficulty="difficult">
+        <opcion right="false">Enlazamiento químico</opcion>
+        <opcion right="false">Fisión nuclear</opcion>
+        <opcion right="false">Fusión nuclear</opcion>
+        <opcion right="true">Transmutación</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el proceso mediante el cual un metal se oxida y se combina con el oxígeno del aire?"
+              difficulty="difficult">
+        <opcion right="true">Oxidación</opcion>
+        <opcion right="false">Reducción</opcion>
+        <opcion right="false">Electrólisis</opcion>
+        <opcion right="false">Transmutación</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el proceso mediante el cual un elemento químico acepta electrones?" difficulty="difficult">
+        <opcion right="false">Oxidación</opcion>
+        <opcion right="true">Reducción</opcion>
+        <opcion right="false">Electrólisis</opcion>
+        <opcion right="false">Transmutación</opcion>
+    </pregunta>
+    <pregunta
+            text="¿Cuál es el proceso mediante el cual una solución se pasa a través de una membrana semipermeable para separar sus componentes?"
+            difficulty="difficult">
+        <opcion right="false">Oxidación</opcion>
+        <opcion right="false">Reducción</opcion>
+        <opcion right="true">Electrólisis</opcion>
+        <opcion right="false">Transmutación</opcion>
+    </pregunta>
+    <pregunta
+            text="¿Cuál es el proceso mediante el cual se produce una reacción química entre una sustancia y un oxidante?"
+            difficulty="difficult">
+        <opcion right="false">Reducción</opcion>
+        <opcion right="true">Combustión</opcion>
+        <opcion right="false">Electrólisis</opcion>
+        <opcion right="false">Transmutación</opcion>
+    </pregunta>
+    <pregunta
+            text="¿Cuál es el proceso mediante el cual se libera energía térmica cuando una sustancia se combina con el oxígeno del aire?"
+            difficulty="difficult">
+        <opcion right="false">Reducción</opcion>
+        <opcion right="true">Combustión</opcion>
+        <opcion right="false">Electrólisis</opcion>
+        <opcion right="false">Transmutación</opcion>
+    </pregunta>
+    <pregunta
+            text="¿Cuál es el proceso mediante el cual una solución se concentra mediante la eliminación del solvente?"
+            difficulty="difficult">
+        <opcion right="false">Crystallization</opcion>
+        <opcion right="true">Evaporation</opcion>
+        <opcion right="false">Distillation</opcion>
+        <opcion right="false">Filtration</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el proceso mediante el cual una solución se concentra mediante la eliminación del soluto?"
+              difficulty="difficult">
+        <opcion right="true">Crystallization</opcion>
+        <opcion right="false">Evaporation</opcion>
+        <opcion right="false">Distillation</opcion>
+        <opcion right="false">Filtration</opcion>
+    </pregunta>
+    <pregunta
+            text="¿Cuál es el proceso mediante el cual una solución se separa en sus componentes mediante la diferencia en la velocidad de evaporación?"
+            difficulty="difficult">
+        <opcion right="false">Crystallization</opcion>
+        <opcion right="false">Evaporation</opcion>
+        <opcion right="true">Distillation</opcion>
+        <opcion right="false">Filtration</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el río más largo del mundo?" difficulty="difficult">
+        <opcion right="true">Níger</opcion>
+        <opcion right="false">Amazonas</opcion>
+        <opcion right="false">Mekong</opcion>
+        <opcion right="false">Mississippi</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la capital de Estados Unidos?" difficulty="difficult">
+        <opcion right="false">Nueva York</opcion>
+        <opcion right="false">Los Ángeles</opcion>
+        <opcion right="true">Washington D.C.</opcion>
+        <opcion right="false">Chicago</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de China?" difficulty="difficult">
+        <opcion right="true">Mandarín</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Español</opcion>
+        <opcion right="false">Francés</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda oficial de Japón?" difficulty="difficult">
+        <opcion right="true">Yen</opcion>
+        <opcion right="false">Dólar estadounidense</opcion>
+        <opcion right="false">Euro</opcion>
+        <opcion right="false">Libra esterlina</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el nombre del conjunto de leyes que gobiernan el comportamiento de los cuerpos celestes?"
+              difficulty="difficult">
+        <opcion right="true">Leyes de Kepler</opcion>
+        <opcion right="false">Leyes de Newton</opcion>
+        <opcion right="false">Leyes de Coulomb</opcion>
+        <opcion right="false">Leyes de Ohm</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la capital de Kirguistán?" difficulty="difficult">
+        <opcion right="false">Tashkent</opcion>
+        <opcion right="true">Biskek</opcion>
+        <opcion right="false">Dushanbe</opcion>
+        <opcion right="false">Astana</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el nombre del lago más grande de África?" difficulty="difficult">
+        <opcion right="true">Victoria</opcion>
+        <opcion right="false">Tanganyika</opcion>
+        <opcion right="false">Malawi</opcion>
+        <opcion right="false">Níger</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el río más largo del mundo?" difficulty="difficult">
+        <opcion right="false">Níger</opcion>
+        <opcion right="true">Nilos</opcion>
+        <opcion right="false">Amazonas</opcion>
+        <opcion right="false">Yangtsé</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo?" difficulty="difficult">
+        <opcion right="false">Elefante africano</opcion>
+        <opcion right="true">Ballena azul</opcion>
+        <opcion right="false">Rinoceronte blanco</opcion>
+        <opcion right="false">Gorila</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el pico más alto del mundo?" difficulty="difficult">
+        <opcion right="true">Everest</opcion>
+        <opcion right="false">K2</opcion>
+        <opcion right="false">Kilimanjaro</opcion>
+        <opcion right="false">Aconcagua</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el río más corto del mundo?" difficulty="difficult">
+        <opcion right="false">Níger</opcion>
+        <opcion right="false">Nilos</opcion>
+        <opcion right="true">Río Roe</opcion>
+        <opcion right="false">Yangtsé</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el océano más grande del mundo?" difficulty="difficult">
+        <opcion right="true">Océano Pacífico</opcion>
+        <opcion right="false">Océano Atlántico</opcion>
+        <opcion right="false">Océano Índico</opcion>
+        <opcion right="false">Océano Artico</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda oficial de Egipto?" difficulty="difficult">
+        <opcion right="false">Dinar iraquí</opcion>
+        <opcion right="false">Riyal saudí</opcion>
+        <opcion right="true">Libra egipcia</opcion>
+        <opcion right="false">Dólar estadounidense</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Tailandia?" difficulty="difficult">
+        <opcion right="false">Chino</opcion>
+        <opcion right="false">Vietnamita</opcion>
+        <opcion right="true">Tailandés</opcion>
+        <opcion right="false">Japonés</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más grande de África?" difficulty="difficult">
+        <opcion right="false">Egipto</opcion>
+        <opcion right="true">Sudán</opcion>
+        <opcion right="false">Nigeria</opcion>
+        <opcion right="false">Angola</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la montaña más alta de Europa?" difficulty="difficult">
+        <opcion right="true">Monte Elbrus</opcion>
+        <opcion right="false">Monte Blanca</opcion>
+        <opcion right="false">Monte Bianco</opcion>
+        <opcion right="false">Monte Rosa</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la ciudad más grande de Australia?" difficulty="difficult">
+        <opcion right="false">Sídney</opcion>
+        <opcion right="true">Melbourne</opcion>
+        <opcion right="false">Brisbane</opcion>
+        <opcion right="false">Perth</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más pequeño del mundo en términos de población?" difficulty="difficult">
+        <opcion right="true">Vaticano</opcion>
+        <opcion right="false">Mónaco</opcion>
+        <opcion right="false">Maldivas</opcion>
+        <opcion right="false">Samoa</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Perú?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más rápido del mundo?" difficulty="difficult">
+        <opcion right="true">Guepardo</opcion>
+        <opcion right="false">León</opcion>
+        <opcion right="false">Jaguar</opcion>
+        <opcion right="false">Tigre</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Costa Rica?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo en términos de peso?" difficulty="difficult">
+        <opcion right="true">Ballena azul</opcion>
+        <opcion right="false">Elefante africano</opcion>
+        <opcion right="false">Rinoceronte blanco</opcion>
+        <opcion right="false">Gorila</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el país más grande del mundo en términos de superficie?" difficulty="difficult">
+        <opcion right="true">Rusia</opcion>
+        <opcion right="false">China</opcion>
+        <opcion right="false">Estados Unidos</opcion>
+        <opcion right="false">Canadá</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda oficial de China?" difficulty="difficult">
+        <opcion right="true">Yuan</opcion>
+        <opcion right="false">Rublo</opcion>
+        <opcion right="false">Dólar estadounidense</opcion>
+        <opcion right="false">Euro</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Bolivia?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo en términos de longitud?" difficulty="difficult">
+        <opcion right="true">Ballena jorobada</opcion>
+        <opcion right="false">Ballena azul</opcion>
+        <opcion right="false">Anaconda</opcion>
+        <opcion right="false">Crocodilo</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Ecuador?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda oficial de Japón?" difficulty="difficult">
+        <opcion right="true">Yen</opcion>
+        <opcion right="false">Dólar estadounidense</opcion>
+        <opcion right="false">Euro</opcion>
+        <opcion right="false">Libra esterlina</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Paraguay?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Uruguay?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda oficial de Corea del Sur?" difficulty="difficult">
+        <opcion right="true">Won</opcion>
+        <opcion right="false">Yen</opcion>
+        <opcion right="false">Dólar estadounidense</opcion>
+        <opcion right="false">Euro</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Venezuela?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo en términos de altura?" difficulty="difficult">
+        <opcion right="true">Girafa</opcion>
+        <opcion right="false">Elefante africano</opcion>
+        <opcion right="false">Rinoceronte blanco</opcion>
+        <opcion right="false">Gorila</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Chile?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda oficial de Taiwán?" difficulty="difficult">
+        <opcion right="true">Dólar taiwanés</opcion>
+        <opcion right="false">Yen</opcion>
+        <opcion right="false">Dólar estadounidense</opcion>
+        <opcion right="false">Euro</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo en términos de ancho?" difficulty="difficult">
+        <opcion right="true">Ballena jorobada</opcion>
+        <opcion right="false">Ballena azul</opcion>
+        <opcion right="false">Anaconda</opcion>
+        <opcion right="false">Crocodilo</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Perú?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda oficial de Hong Kong?" difficulty="difficult">
+        <opcion right="true">Dólar de Hong Kong</opcion>
+        <opcion right="false">Yen</opcion>
+        <opcion right="false">Dólar estadounidense</opcion>
+        <opcion right="false">Euro</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Bolivia?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo en términos de peso?" difficulty="difficult">
+        <opcion right="true">Ballena azul</opcion>
+        <opcion right="false">Elefante africano</opcion>
+        <opcion right="false">Rinoceronte blanco</opcion>
+        <opcion right="false">Gorila</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Ecuador?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Paraguay?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más lento del mundo?" difficulty="difficult">
+        <opcion right="true">Caracol</opcion>
+        <opcion right="false">Tortuga</opcion>
+        <opcion right="false">Cangrejo</opcion>
+        <opcion right="false">Langosta</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Uruguay?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda oficial de Malasia?" difficulty="difficult">
+        <opcion right="true">Ringgit</opcion>
+        <opcion right="false">Yen</opcion>
+        <opcion right="false">Dólar estadounidense</opcion>
+        <opcion right="false">Euro</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Venezuela?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo en términos de altura?" difficulty="difficult">
+        <opcion right="true">Girafa</opcion>
+        <opcion right="false">Elefante africano</opcion>
+        <opcion right="false">Rinoceronte blanco</opcion>
+        <opcion right="false">Gorila</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo en términos de ancho?" difficulty="difficult">
+        <opcion right="true">Ballena jorobada</opcion>
+        <opcion right="false">Ballena azul</opcion>
+        <opcion right="false">Anaconda</opcion>
+        <opcion right="false">Crocodilo</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Perú?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es la moneda oficial de Tailandia?" difficulty="difficult">
+        <opcion right="true">Baht</opcion>
+        <opcion right="false">Yen</opcion>
+        <opcion right="false">Dólar estadounidense</opcion>
+        <opcion right="false">Euro</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Bolivia?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el animal más grande del mundo en términos de peso?" difficulty="difficult">
+        <opcion right="true">Ballena azul</opcion>
+        <opcion right="false">Elefante africano</opcion>
+        <opcion right="false">Rinoceronte blanco</opcion>
+        <opcion right="false">Gorila</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Ecuador?" difficulty="difficult">
+        <opcion right="true">Español</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Portugués</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Finlandia?" difficulty="difficult">
+        <opcion right="true">Finlandés</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Islandia?" difficulty="difficult">
+        <opcion right="true">Islandés</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Bélgica?" difficulty="difficult">
+        <opcion right="true">Neerlandés, Francés y alemán</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Portugal?" difficulty="difficult">
+        <opcion right="true">Portugués</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Grecia?" difficulty="difficult">
+        <opcion right="true">Griego</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Croacia?" difficulty="difficult">
+        <opcion right="true">Croata</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Hungría?" difficulty="difficult">
+        <opcion right="true">Húngaro</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Polonia?" difficulty="difficult">
+        <opcion right="true">Polaco</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Serbia?" difficulty="difficult">
+        <opcion right="true">Serbio</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Bosnia y Herzegovina?" difficulty="difficult">
+        <opcion right="true">Bosnio, croata y serbio</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Eslovenia?" difficulty="difficult">
+        <opcion right="true">Esloveno</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Kosovo?" difficulty="difficult">
+        <opcion right="true">Albanés y serbio</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Georgia?" difficulty="difficult">
+        <opcion right="true">Georgiano</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Armenia?" difficulty="difficult">
+        <opcion right="true">Armenio</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Azerbaijan?" difficulty="difficult">
+        <opcion right="true">Azerí</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Turquía?" difficulty="difficult">
+        <opcion right="true">Turco</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Irán?" difficulty="difficult">
+        <opcion right="true">Persa</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Egipto?" difficulty="difficult">
+        <opcion right="true">Árabe</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Arabia Saudita?" difficulty="difficult">
+        <opcion right="true">Árabe</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+    <pregunta text="¿Cuál es el idioma oficial de Siria?" difficulty="difficult">
+        <opcion right="true">Árabe</opcion>
+        <opcion right="false">Inglés</opcion>
+        <opcion right="false">Francés</opcion>
+        <opcion right="false">Español</opcion>
+    </pregunta>
+</preguntas>
